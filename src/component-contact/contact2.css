@@ -1,0 +1,120 @@
+.srcc{
+    position: absolute;top: 270px;left:700px;width: 8%;color: black;
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size:1.2em;
+    border-radius: 20px;
+    border: none;
+    color:#D2D3C9;
+    padding: 10px 180px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+  
+.srcc{
+    background-color: #D6B1FF;
+    color:#18191F; 
+    border: 2px solid rgba(0, 0, 0, 0);
+    text-transform:uppercase;
+}
+  
+.srcc:hover {
+    background-color:white;
+    color:#D6B1FF;
+}
+.src4{
+  
+    position: absolute;top: 350px;left:700px;width: 15%;color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size:1.2em;
+    border-radius: 20px;
+    border: none;
+    color:#D2D3C9;
+    padding: 10px 130px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+  
+.src4{
+    background-color: #D6B1FF;
+    color:#18191F; 
+    border: 2px solid rgba(0, 0, 0, 0);
+    text-transform:uppercase;
+}
+  
+.src4:hover {
+    background-color:white;
+    color:#D6B1FF;
+}
+.src5{
+    position: absolute;top: 510px;left:700px;width:10%;color: black;
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size:1.2em;
+    border-radius: 20px;
+    border: none;
+    color:#D2D3C9;
+    padding: 60px 163px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+  
+.src5{
+    background-color: #D6B1FF;
+    color:#18191F; 
+    border: 2px solid rgba(0, 0, 0, 0);
+    text-transform:uppercase;
+}
+  
+.src5:hover {
+    background-color:white;
+    color:#D6B1FF;
+}
+.src6{
+    position: absolute;top: 680px;left:850px;
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size:1.2em;
+    border-radius: 8px;
+    border: none;
+    color:#D2D3C9;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+  
+.src6{
+    background-color:#8C30F5;
+    color:white; 
+    border: 2px solid white;
+    text-transform:uppercase;
+}
+  
+.src6:hover {
+    background-color:white;
+    color:#D6B1FF;
+}
